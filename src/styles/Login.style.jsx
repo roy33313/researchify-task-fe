@@ -5,8 +5,8 @@ import {
   styled,
   TextField,
   Typography,
+  Button,
 } from "@mui/material";
-import { Button } from "bootstrap";
 
 export const StyledPaper = styled(Paper)(({ theme }) => ({
   marginTop: "40%",
